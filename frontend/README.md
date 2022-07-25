@@ -38,11 +38,26 @@ npm start
 
 ### List Page
 
+![Screenshot 2022-07-25 at 17 20 24](https://user-images.githubusercontent.com/82647525/180835214-d8f9b935-d186-4215-8f33-06f98acd20c6.png)
+
+
 ### Search Question Page
+
+![Screenshot 2022-07-25 at 17 25 47](https://user-images.githubusercontent.com/82647525/180835160-6c07dc3b-b728-4f3d-bd08-5aeba4ebc8b6.png)
 
 
 ### Add Question Page
 
+![Screenshot 2022-07-25 at 17 23 47](https://user-images.githubusercontent.com/82647525/180835320-b1cdb5cd-bfaa-458d-b676-927dcae2f048.png)
 
-### Add Category Page
 
+
+### Play Game Page
+
+![Screenshot 2022-07-25 at 17 24 01](https://user-images.githubusercontent.com/82647525/180835365-7be4bf89-7409-4073-a2e9-a3ec1281f4c8.png)
+
+![Screenshot 2022-07-25 at 17 24 11](https://user-images.githubusercontent.com/82647525/180835409-53b6fd4e-8778-46cf-9238-ff3c6a4fccd1.png)
+
+![Screenshot 2022-07-25 at 17 24 24](https://user-images.githubusercontent.com/82647525/180834997-b0afcdff-c355-4f6a-93f9-f353e43aee22.png)
+
+![Screenshot 2022-07-25 at 17 25 00](https://user-images.githubusercontent.com/82647525/180835035-25f07e2a-ce2a-4134-9086-d62883fa0f92.png)
